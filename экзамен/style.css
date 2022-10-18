@@ -1,0 +1,525 @@
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+
+    font-family:" Roboto" , sans-serif;
+}
+.block{
+width: 1440px;
+
+border: solid red;
+margin: auto;
+height: 20000px;
+
+}
+
+
+
+.box{
+    width:100% ;
+    height: 100px;
+    
+}
+
+
+.imgg{
+margin: auto;
+margin-top: 25px;
+margin-left: 70px;
+}
+
+
+
+
+
+.box1{
+display: flex;
+gap: 60px;
+margin: auto;
+margin-left: 35%;
+margin-top: -55px;
+}
+
+.p1{
+
+    color: #FF5634;
+}
+.p2{
+
+    line-height: 35px;
+    border: solid 0px;
+    background-color: rgb(243, 84, 4);
+    border-radius:10px;
+    width: 90px;
+    height: 40px;
+    text-align: center;
+margin-top: 5px;
+
+}
+
+.box2{
+background-image: url(IMAGE.png);
+width: 560px;
+height: 900px;
+position: absolute;
+top: 120px;
+left: 60%;
+}
+
+.box3{
+background-image: url(IMAGES.png);
+position: relative;
+top: 160px;
+left: 50%;
+height: 700px;
+width:360px;
+}
+
+.box4{
+margin: auto;
+margin-top: -550px;
+margin-left: 70px;
+}
+.pp1{
+color: #FF5634;
+
+
+}
+
+.hh{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 72px;
+
+}
+.pp2{
+
+   
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 30px;
+color: #656565;
+
+
+}
+.pp3{
+color: #ffffff;
+font-size: 16px;
+    background: #FF5634;
+    border: 1px solid #FF5634;
+    border-radius: 16px;
+width: 160px;
+height: 45px;
+text-align: center;
+line-height: 45px;
+margin-top:8%;
+
+}
+.pp4{
+margin: auto;
+margin-left: 25%;
+margin-top: -43px;
+
+
+}
+.box5{
+    display: flex;
+    gap: 40px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 66px;
+color: #121212;
+}
+span{
+    color: #FF5634;
+}
+
+.box6{
+display: flex;
+gap: 60px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+margin-top: -5%;
+
+
+color: #656565;
+
+}
+.box8{
+display: flex;
+gap: 8%;
+width: 100%;
+
+
+margin-top: 60px;
+}
+
+
+.box7{
+margin: auto;
+margin-top:1000px;
+margin-left: 70px;
+
+}
+.pppp{
+margin-left: 40%;
+
+
+}
+.top1{
+background-image: url(IMAGEMESBIR.png);
+Width:
+240px;
+Height:
+40px;
+}
+.top2{
+    background-image: url(IMGEMTORT.png);
+    width: 240px;
+    height: 42px;
+}
+.top3{
+    background-image: url(IMAGEMES.png);
+    width: 240px;
+    height: 42px;
+
+}
+
+.top4{
+background-image: url(IMGTY.png);
+width: 240px;
+height: 42px;
+}
+.block320{
+margin: auto;
+margin-top: 320px;
+height: 500px;
+
+}
+.wv{
+color: #FF5634;
+text-align: center ;
+}
+
+.wvh{
+color: #121212;
+text-align: center;
+}
+
+.wvp{
+font-size: 10px;
+text-align: center;
+
+}
+.iphone{
+display: flex;
+gap: 25%;
+margin: auto;
+margin-left: 70px;
+margin-top: 150px;
+}
+
+
+
+.iphone1{
+background-image: url(iphone.png);
+width: 218px;
+height: 218px;
+}
+.iphone2{
+background-image: url(ipad.png);
+width: 218px;
+height: 218px;
+}
+.iphone3{
+background-image: url(ipadpro.png);
+width: 218px;
+height: 218px;
+}
+.ipad{
+   margin-top: 250px ;
+   font-family:" Roboto" , sans-serif;
+font-size: 20px;
+width:450px;
+font-weight: 600;
+}
+.pon{
+    width:280px;
+    font-size: 12px;
+    text-align: center;
+    margin-left: -15%;
+    color: #656565;
+}
+
+.werty{
+    color: #ffffff;
+font-size: 16px;
+    background: #FF5634;
+    border: 1px solid #FF5634;    border-radius: 16px;
+width: 160px;
+height: 45px;
+text-align: center;
+line-height: 45px;
+margin-top:17%;
+margin-left: 39%;
+}
+.ppppr{
+    margin-top:-3% ;
+margin-left: 58%;
+font-weight: 500;
+}
+
+.box22{
+background-image: url(pro.png);
+width:283px;
+height: 570px;
+position: absolute;
+left: 55%;
+}
+.box23{
+background-image: url(promax.png);
+width: 470px;
+height: 680px;
+position: relative;
+left: 67%;
+top:-40px;
+}
+
+.block4{
+    margin-top: 30%;}
+
+.box124{
+margin-top: -50%;
+margin-left: 70px;
+font-size: 48px;
+}
+.box125{
+font-size: 12px;
+
+margin-left: 70px;
+}
+.foto{
+display: flex;
+margin: auto;
+gap: 25%;
+}
+
+.foto1{
+background-image: url(foto.png);
+width: 63px;
+height: 56px;
+margin-left: 70px;
+}
+
+
+.foto2{
+
+background-image: url(fotos.png);
+width: 63px;
+height: 56px;
+
+
+}
+.fotoh{
+width: 1000px;
+margin-top: 80px;
+font-size: 24px;
+}
+
+.fotop{
+width:300px;
+font-size: 12px;
+color: #656565;
+}
+
+.ui{
+
+background-image: url(uiop.png);
+width: 63px;
+height: 56px;
+margin-left: 70px;
+
+
+}
+.uiop{
+background-image: url(uio.png);
+width: 63px;
+height: 56px;
+}
+.uio{
+display: flex;
+margin: auto;
+gap: 25%;
+margin-top: 170px;
+}
+.hjkl{
+font-size: 24px;
+width: 300px;
+margin-top: 70px;
+}
+
+.hjk{
+font-size: 12px;
+color: #656565;
+width: 300px;
+}
+.tyui{
+    color: #ffffff;
+    font-size: 16px;
+        background: #FF5634;
+        border: 1px solid #FF5634;    border-radius: 16px;
+    width: 160px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    margin-top:28%;
+    margin-left: 35%;
+
+}
+
+.tyuio{
+    margin-top:-4% ;
+    margin-left: 58%;
+    font-weight: 500;
+    border: solid 1px #656565;
+    border-radius: 16px;
+    width: 150px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+
+
+    }
+    
+.vor{   
+width: 100%;
+height: 854px;
+background-color: #121212;
+margin-top: 250px;
+overflow: hidden;
+
+
+
+}
+
+.wor{
+width: 50%;
+height:850px;
+border: solid red;
+margin-left: 50%;
+overflow: hidden;
+
+}
+
+.wor1{
+background-image: url(qw.png);
+position: absolute;
+top: 3765px;
+
+
+}
+.wor2{
+background-image: url(qwe.png); 
+position: absolute;
+left: 1160px;
+top:3640px ;
+
+}
+.wor3{
+ background-image: url(qwer.png); 
+position: absolute;
+top: 4080px;
+
+}
+
+.wor4{
+     background-image: url(qwert.png);  
+     position: absolute;
+     left: 1160px;
+top:3955px ;
+    
+    }
+
+    .wor5{
+          background-image: url(qwerty.png);  
+        position: absolute;
+        top: 4400px;
+        
+        }
+
+
+        .wor6{
+             background-image: url(qwertyu.png);  
+             position: absolute;
+            top: 4275px;
+            left: 1160px;
+            }.wor7{
+ background-image: url(qwertyui.png);  
+ position: absolute;
+ left: 1160px;
+ top: 4620px;
+
+}
+
+.wor8{
+    background-image: url(qwertyuio.png);  
+   position: absolute;
+    top: 4750px;
+    }
+    .vor1{
+width: 320px;
+height: 288px;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
